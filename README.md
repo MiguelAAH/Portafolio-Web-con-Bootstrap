@@ -50,10 +50,3 @@ La arquitectura de la información del sitio web se organiza en una sola página
 #### **4. Sección Sobre Mí y Formulario de Contacto**
 <img width="1845" height="915" alt="image" src="https://github.com/user-attachments/assets/88edfeb7-b968-426b-a1d9-11f25a78452f" />
 <img width="930" height="923" alt="image" src="https://github.com/user-attachments/assets/796ccf45-a50b-47b3-816c-ad715feee0db" />
-
-
-
-
-que domino[cite: 1].
-10. **Contacto (Contact):** Formulario estilizado con campos flotantes integrados para el envío de mensajes[cite: 1].
-11. **Pie de Página (Footer) & Copyright:** Bloques informativos que muestran mi ubicación geográfica actual y las redes de contacto profesional[cite: 1].
